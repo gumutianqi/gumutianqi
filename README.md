@@ -2,10 +2,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gumutianqi-introduction)
 
-- 🤖 Java 云原生技术方向 | 架构师 | 服务化 | 容器化 | DDD 领域
-- 🌱 我热爱开源，热爱写作，热爱分享
-- 📫 混迹于各类开源社群，因为 Java 技术栈，所有热衷于阿里技术
-- 💬 想要交流 微信 @larrykoo77
+- 🤖  Java 云原生技术方向 | 架构师 | 服务化 | 容器化 | DDD 领域
+- 🌱  我热爱开源，热爱写作，热爱分享
+- 📫  混迹于各类开源社群，因为 Java 技术栈，所有热衷于阿里技术
+- 💬  想要交流 微信 @larrykoo77
 
 ### 新年汇总
 
