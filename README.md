@@ -1,6 +1,6 @@
 ### 我是古拉里 👋
 
-![Bento](https://bento.me/larrykoo)
+[To My Bento](https://bento.me/larrykoo)
 
 - 🤖  Java 云原生技术方向 | 架构师 | 服务化 | 容器化 | DDD 领域
 - 🌱  我热爱开源，热爱写作，热爱分享
